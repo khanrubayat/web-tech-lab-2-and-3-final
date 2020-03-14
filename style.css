@@ -1,0 +1,18 @@
+
+
+
+
+
+.header{
+	border: 1px solid black;
+	
+}
+.right,.left{
+	display: inline-block;
+
+	text-decoration: none;
+	float: top right;
+}
+.right{
+	padding-left: 1000px;
+}
